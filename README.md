@@ -48,3 +48,5 @@ Beginning in January 2021, we'll begin rolling out functionality to make it easi
 Open pull requests and draft releases will be automatically retargeted, branch protection rules will be moved, and to help contributors, prompts will guide them on how to update their local configurations:
 
 ![Prompt to update local Git configuration](local-config-prompt.png)
+
+Links to github.com/<org>/<repo>/blob/master will automatically redirect to github.com/<org>/<repo>/blob/main.
